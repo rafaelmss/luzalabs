@@ -41,6 +41,3 @@ C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee ManagerTests\bin\Debug\Syst
 C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee ManagerTests\obj\Debug\Luizalabs Employee Manager Tests.csprojResolveAssemblyReference.cache
 C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee ManagerTests\obj\Debug\Luisalabs Employee ManagerTests.dll
 C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee ManagerTests\obj\Debug\Luisalabs Employee ManagerTests.pdb
-C:\Users\pessoal\Desktop\luzalabs\Luizalabs Employee ManagerTests\obj\Debug\Luizalabs Employee Manager Tests.csprojResolveAssemblyReference.cache
-C:\Users\pessoal\Desktop\luzalabs\Luizalabs Employee ManagerTests\obj\Debug\Luisalabs Employee ManagerTests.dll
-C:\Users\pessoal\Desktop\luzalabs\Luizalabs Employee ManagerTests\obj\Debug\Luisalabs Employee ManagerTests.pdb
