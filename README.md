@@ -1,4 +1,4 @@
-# Luisalabs Employee Manager
+# Luizalabs Employee Manager
 Desafio proposto por Luizalabs
 
 Implementação de uma Web API Rest para gestão de informações referente a gestão de objetos do tipo "Employee", como no exemplo:
