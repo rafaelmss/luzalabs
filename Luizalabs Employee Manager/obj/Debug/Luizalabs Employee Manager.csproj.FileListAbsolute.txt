@@ -1,0 +1,37 @@
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee Manager\bin\roslyn\csc.exe
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee Manager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee Manager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee Manager\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee Manager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee Manager\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee Manager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee Manager\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee Manager\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee Manager\bin\roslyn\vbc.exe
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee Manager\bin\roslyn\VBCSCompiler.exe
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee Manager\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee Manager\bin\Luisalabs Employee Manager.dll.config
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee Manager\bin\Luisalabs Employee Manager.dll
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee Manager\bin\Luisalabs Employee Manager.pdb
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee Manager\bin\EntityFramework.dll
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee Manager\bin\EntityFramework.SqlServer.dll
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee Manager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee Manager\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee Manager\bin\Newtonsoft.Json.dll
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee Manager\bin\Swashbuckle.Core.dll
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee Manager\bin\System.Net.Http.Formatting.dll
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee Manager\bin\System.Web.Http.dll
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee Manager\bin\System.Web.Http.WebHost.dll
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee Manager\bin\WebActivatorEx.dll
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee Manager\bin\EntityFramework.xml
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee Manager\bin\EntityFramework.SqlServer.xml
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee Manager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee Manager\bin\Newtonsoft.Json.xml
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee Manager\bin\System.Net.Http.Formatting.xml
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee Manager\bin\System.Web.Http.xml
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee Manager\bin\System.Web.Http.WebHost.xml
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee Manager\obj\Debug\Luizalabs Employee Manager.csprojResolveAssemblyReference.cache
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee Manager\obj\Debug\Luisalabs_Employee_Manager.Migrations.Start.resources
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee Manager\obj\Debug\Luizalabs Employee Manager.csproj.GenerateResource.Cache
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee Manager\obj\Debug\Luisalabs Employee Manager.dll
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee Manager\obj\Debug\Luisalabs Employee Manager.pdb

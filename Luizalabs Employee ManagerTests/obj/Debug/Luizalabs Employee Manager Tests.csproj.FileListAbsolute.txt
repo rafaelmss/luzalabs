@@ -1,0 +1,46 @@
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee ManagerTests\bin\Debug\roslyn\csc.exe
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee ManagerTests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee ManagerTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee ManagerTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee ManagerTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee ManagerTests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee ManagerTests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee ManagerTests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee ManagerTests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee ManagerTests\bin\Debug\roslyn\vbc.exe
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee ManagerTests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee ManagerTests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee ManagerTests\bin\Debug\Luisalabs Employee ManagerTests.dll.config
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee ManagerTests\bin\Debug\Luisalabs Employee ManagerTests.dll
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee ManagerTests\bin\Debug\Luisalabs Employee ManagerTests.pdb
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee ManagerTests\bin\Debug\Castle.Core.dll
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee ManagerTests\bin\Debug\EntityFramework.dll
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee ManagerTests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee ManagerTests\bin\Debug\Luisalabs Employee Manager.dll
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee ManagerTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee ManagerTests\bin\Debug\Moq.dll
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee ManagerTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee ManagerTests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee ManagerTests\bin\Debug\System.ValueTuple.dll
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee ManagerTests\bin\Debug\WebActivatorEx.dll
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee ManagerTests\bin\Debug\Swashbuckle.Core.dll
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee ManagerTests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee ManagerTests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee ManagerTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee ManagerTests\bin\Debug\Luisalabs Employee Manager.pdb
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee ManagerTests\bin\Debug\Castle.Core.xml
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee ManagerTests\bin\Debug\EntityFramework.xml
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee ManagerTests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee ManagerTests\bin\Debug\Moq.pdb
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee ManagerTests\bin\Debug\Moq.xml
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee ManagerTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee ManagerTests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee ManagerTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee ManagerTests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee ManagerTests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee ManagerTests\obj\Debug\Luizalabs Employee Manager Tests.csprojResolveAssemblyReference.cache
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee ManagerTests\obj\Debug\Luisalabs Employee ManagerTests.dll
+C:\Users\pessoal\Desktop\luzalabs\Luisalabs Employee ManagerTests\obj\Debug\Luisalabs Employee ManagerTests.pdb
+C:\Users\pessoal\Desktop\luzalabs\Luizalabs Employee ManagerTests\obj\Debug\Luizalabs Employee Manager Tests.csprojResolveAssemblyReference.cache
+C:\Users\pessoal\Desktop\luzalabs\Luizalabs Employee ManagerTests\obj\Debug\Luisalabs Employee ManagerTests.dll
+C:\Users\pessoal\Desktop\luzalabs\Luizalabs Employee ManagerTests\obj\Debug\Luisalabs Employee ManagerTests.pdb
