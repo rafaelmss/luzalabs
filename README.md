@@ -16,7 +16,7 @@ Implementação com uso de EntityFramework para controle de persistência, Swagg
 permitindo a validaçãod e cada uma das rotas da API
 
 ### Sugestão de Testes
-A aplicação é usada através de requisições GET e POST, acessíveis por meio do recurso Swagger:
+A aplicação é usada através de requisições GET, POST e DELETE, acessíveis por meio do recurso Swagger:
 
 ```
 http://localhost:8000/swagger
